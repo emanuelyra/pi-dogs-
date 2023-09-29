@@ -1,0 +1,70 @@
+
+
+.containergeneral{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-around;
+    width: 280px;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: baseline;
+   cursor: pointer;
+   border: 1px solid blue
+}
+
+.container1{
+    text-align: center;
+    margin-top: 50px;
+    box-shadow: 10px 3px 25px black;
+    border-radius: 20px;
+    background-color: rgb(223, 73, 8);
+}
+.container2{
+    text-align: center;
+}
+
+.container3{
+    text-align: center;
+}
+
+.namedog{
+    color:orange;
+    margin-top: 5px;
+    font-size: 1.5rem;
+    font: oblique bold 120% cursive;
+}
+
+.breedimage{
+    border-radius: 25px;
+   
+}
+
+.nameTemp{
+    font-size: 1rem;
+    border-color: darkcyan;
+    background-color: #DDCAD9;
+    border-radius: 8px;
+  }
+
+
+.numpeso{
+    font-size: 1rem;
+   
+    margin-left: 76px;
+    border-color: darkcyan;
+    background-color: #DDCAD9;
+    border-radius: 8px;
+  }
+
+
+.textotemp{
+    font: oblique bold 100%;
+    color: black
+}
+
+
+.p{
+    text-decoration: none ;
+
+    color: black;
+}
